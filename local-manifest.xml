@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remote name="github" fetch="https://github.com/" />
+
+  <project name="dl9pf/testlocal2" remote="github" revision="master" path="meta-own-project" >
+  </project>
+
 </manifest>
