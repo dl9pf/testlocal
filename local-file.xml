@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="github" fetch="https://github.com/" />
+
+  <project name="dl9pf/testlocal" remote="github" revision="master" path="local-projects" >
+      <linkfile src="local-projects/README.md" dest=".repo/local_manifests/README.md" />
+  </project>
+
+</manifest>
